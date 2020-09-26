@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd22ae61-6c5f-4e40-affa-d552ba8b84a2" name="Default Changelist" comment="" />
+    <list default="true" id="dd22ae61-6c5f-4e40-affa-d552ba8b84a2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/UsersController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/users/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/users/create.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -166,6 +169,7 @@
       <updated>1601080783838</updated>
       <workItem from="1601080784904" duration="3459000" />
       <workItem from="1601090151196" duration="3236000" />
+      <workItem from="1601103963336" duration="486000" />
     </task>
     <servers />
   </component>
@@ -182,6 +186,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state width="498" height="446" key="SwitcherDM" timestamp="1601093695916">
