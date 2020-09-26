@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd22ae61-6c5f-4e40-affa-d552ba8b84a2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/_header.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/SessionsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/SessionsController.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +170,7 @@
       <updated>1601080783838</updated>
       <workItem from="1601080784904" duration="3459000" />
       <workItem from="1601090151196" duration="3236000" />
-      <workItem from="1601103963336" duration="3205000" />
+      <workItem from="1601103963336" duration="3600000" />
     </task>
     <servers />
   </component>
